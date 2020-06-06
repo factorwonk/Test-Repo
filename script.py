@@ -27,6 +27,7 @@ import requests
 
 # Check that requests is working
 r = requests.get("https://github.com/factorwonk")
+# Add a break point around here
 print(r.status_code)
 
 # name = input("Your name? ")
