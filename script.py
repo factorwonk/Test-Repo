@@ -5,21 +5,21 @@
 # Sort imports
 # Enable pylint
 # Run any input stuff in terminal
-import math
-import sys
-from os import rename
+# import math
+# import sys
+# from os import rename
 
 import requests
 
 # What version of python?
 # print(sys.version)
 # Where it's located?
-print(sys.executable)
+# print(sys.executable)
 
 
-def greet(who_to_greet):
-    greeting = "Hello, {}".format(who_to_greet)
-    return greeting
+# def greet(who_to_greet):
+#     greeting = "Hello, {}".format(who_to_greet)
+#     return greeting
 
 
 # print(greet('World'))
